@@ -1,9 +1,4 @@
-# laboratory-work-2
-script language [commands](Lab2/GeometryScript/COMMANDS.txt).
-compile and test this program in release mode to prevent breaking up. (because all typical errors are not catched, probably because they occur in other project, tbh idk)
-
-```text
-%polygon 
+﻿%polygon 
 	x: [x1], [x2], ... [xn]
 	y: [y1], [y2], ... [yn]
 ;
@@ -45,4 +40,3 @@ compile and test this program in release mode to prevent breaking up. (because a
 %dot
 	center: [x1], [y1]
 ;
-```
